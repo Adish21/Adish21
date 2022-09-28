@@ -1,8 +1,7 @@
 <h1 align="center">Hello, I am Adish Bahatkar</h1>
 <h3 align="center">Software developer student`</h3>
 
-<img align="right" alt= "coding" width= "500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Forbograph.com%2Fai-will-transform-healthcare-within-our-lifetime%2F&psig=AOvVaw11aCuVGmB4vpvsjxgGRmEv&ust=1664475267518000&
-source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiWv9yLuPoCFQAAAAAdAAAAABAO">
+<img align="right" alt= "coding" width= "500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-32835481-artificial-intelligence-ai-brain-animation-data-mining&psig=AOvVaw2rvzsxlWWxruzyQQdp76sw&ust=1664475920744000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJifsZOOuPoCFQAAAAAdAAAAABAD">
 
 - 🔭 I’m currently working on **developing my Python and C.**
 
