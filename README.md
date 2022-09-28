@@ -1,4 +1,4 @@
-!{logo](Welcome.png)
+!{logo](https://github.com/Adish21/Adish21/blob/05c0da8762c0f02813dd9a0e58f1f83b1b9baaf1/Welcome.png)
 <h1 align="center">Hello, I am Adish Bahatkar</h1>
 <h3 align="center">Software developer student`</h3>
 
